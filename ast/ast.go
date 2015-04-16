@@ -18,7 +18,7 @@ package ast
 import (
 	"errors"
 	"fmt"
-	"github.com/awalterschulze/gographviz/token"
+	"github.com/h4ck3rm1k3/gographviz/token"
 	"math/rand"
 	"sort"
 	"strings"
